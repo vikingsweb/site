@@ -2,7 +2,7 @@
 <div id="about-section">
   <div class="container">
     <div class="section-title text-center wow fadeInDown">
-      <h2><strong>Sobre</strong> nós</h2>
+      <h2><strong>VIKINGS SOLUÇÕES WEB</strong></h2>
       <hr>
       <div class="clearfix"></div>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.</p>

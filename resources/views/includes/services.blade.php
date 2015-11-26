@@ -2,10 +2,10 @@
 <div id="services-section" class="text-center">
   <div class="container">
     <div class="section-title wow fadeInDown">
-      <h2>Nossos <strong>Serviços</strong></h2>
+      <h2><strong>SERVIÇOS VIKINGS</strong></h2>
       <hr>
       <div class="clearfix"></div>
-      <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus. Eleifend pellentesque natoque faucibus magna ut etiam.</p>
+      <p>A Vikings tem a solução que o cliente deseja para auxiliar em seu negócio, veja abaixo alguns de nossos serviços. </p>
     </div>
     <div class="space"></div>
     <div class="row">
