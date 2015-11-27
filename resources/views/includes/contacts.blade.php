@@ -3,25 +3,25 @@
 <div id="contact-section" class="text-center">
   <div class="container">
     <div class="section-title wow fadeInDown">
-      <h2><strong>Fale </strong>conosco</h2>
+      <h2><strong>CONTATO VIKINGS</strong></h2>
       <hr>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.</p>
+      <p></p>
     </div>
     <div class="col-md-8 col-md-offset-2 wow fadeInUp" data-wow-delay="200ms">
       <div class="col-md-4"> <i class="fa fa-map-marker fa-2x"></i>
         <p>321 Awesome Street<br>
-          New York, NY 17022</p>
+          Maceió, AL </p>
       </div>
       <div class="col-md-4"> <i class="fa fa-envelope-o fa-2x"></i>
-        <p>contato@vikinsweb.com.br</p>
+        <p>contato@vikingsweb.com.br</p>
       </div>
       <div class="col-md-4"> <i class="fa fa-phone fa-2x"></i>
-        <p> 82 9 9999 0099</p>
+        <p> (82) 9 9999 - 0099</p>
       </div>
       <div class="clearfix"></div>
     </div>
     <div class="col-md-8 col-md-offset-2 wow fadeInUp" data-wow-delay="400ms">
-	<h3>Deixe-nos uma mensagem</h3>
+	<h3>ENVIE SUA MENSAGEM</h3>
       <form name="sentMessage" id="contactForm" novalidate>
         <div class="row">
           <div class="col-md-6">
@@ -46,12 +46,12 @@
       </form>
       <div class="social">
         <ul>
-          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-          <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-          <li><a href="#"><i class="fa fa-github"></i></a></li>
-          <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-          <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+          <li><a href="https://www.facebook.com/Vikings-Solu%C3%A7%C3%B5es-Web-963893863697983/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+          <!-- <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+          <li><a href="#"><i class="fa fa-dribbble"></i></a></li> -->
+          <li><a href="https://github.com/vikingsweb" target="_blank"><i class="fa fa-github"></i></a></li>
+           <!-- <li><a href="https://instagram.com/vikingsweb" target="_blank"><i class="fa fa-instagram"></i></a></li>
+          <li><a href="#"><i class="fa fa-linkedin"></i></a></li> -->
         </ul>
       </div>
     </div>
