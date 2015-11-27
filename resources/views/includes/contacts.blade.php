@@ -13,7 +13,7 @@
           Maceió, AL </p>
       </div>
       <div class="col-md-4"> <i class="fa fa-envelope-o fa-2x"></i>
-        <p>contato@vikinsweb.com.br</p>
+        <p>contato@vikingsweb.com.br</p>
       </div>
       <div class="col-md-4"> <i class="fa fa-phone fa-2x"></i>
         <p> (82) 9 9999 - 0099</p>
@@ -47,11 +47,11 @@
       <div class="social">
         <ul>
           <li><a href="https://www.facebook.com/Vikings-Solu%C3%A7%C3%B5es-Web-963893863697983/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-          <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-          <li><a href="#"><i class="fa fa-github"></i></a></li>
-          <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-          <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+          <!-- <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+          <li><a href="#"><i class="fa fa-dribbble"></i></a></li> -->
+          <li><a href="https://github.com/vikingsweb" target="_blank"><i class="fa fa-github"></i></a></li>
+           <!-- <li><a href="https://instagram.com/vikingsweb" target="_blank"><i class="fa fa-instagram"></i></a></li>
+          <li><a href="#"><i class="fa fa-linkedin"></i></a></li> -->
         </ul>
       </div>
     </div>
