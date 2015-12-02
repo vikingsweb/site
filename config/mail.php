@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'from' => ['address' => 'no-reply@vikingsweb.com.br', 'name' => 'Vikins Soluções Web'],
+    'from' => ['address' => null, 'name' => null],
 
     /*
     |--------------------------------------------------------------------------

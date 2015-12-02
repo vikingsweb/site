@@ -14,5 +14,3 @@
 Route::get('/', function () {
     return view('index');
 });
-
-Route::post('contatos', ['as' => 'contatos', 'uses' => 'HelperController@sendMail']);
