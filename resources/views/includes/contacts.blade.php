@@ -8,14 +8,16 @@
       <p></p>
     </div>
     <div class="col-md-8 col-md-offset-2 wow fadeInUp" data-wow-delay="200ms">
+      <!--
       <div class="col-md-4"> <i class="fa fa-map-marker fa-2x"></i>
         <p>321 Awesome Street<br>
           Maceió, AL </p>
       </div>
-      <div class="col-md-4"> <i class="fa fa-envelope-o fa-2x"></i>
+      -->
+      <div class="col-md-6"> <i class="fa fa-envelope-o fa-2x"></i>
         <p>contato@vikingsweb.com.br</p>
       </div>
-      <div class="col-md-4"> <i class="fa fa-phone fa-2x"></i>
+      <div class="col-md-6"> <i class="fa fa-phone fa-2x"></i>
         <p> (82) 9 9999 - 0099</p>
       </div>
       <div class="clearfix"></div>

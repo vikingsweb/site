@@ -25,7 +25,8 @@ class HelperController extends Controller {
 			$message->to([
 				'vikingsweb@gmail.com',
 				'lucyan@outlook.com',
-				'rafaelsandes89@gmail.com'
+				'rafaelsandes89@gmail.com',
+				'hugo_targino@outlook.com'
 			], 'Vikings')->subject('Contato através do site.');
 		});
 
