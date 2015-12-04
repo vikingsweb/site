@@ -530,11 +530,11 @@ img.img-circle.team-img {
 #contact-section {
 	padding: 80px 0 20px 0;
 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c8c8c8+0,ababab+100 */
-background: #c8c8c8; /* Old browsers */
-background: -moz-linear-gradient(top, #c8c8c8 0%, #ababab 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top, #c8c8c8 0%,#ababab 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom, #c8c8c8 0%,#ababab 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c8c8c8', endColorstr='#ababab',GradientType=0 ); /* IE6-9 */
+background: #9B9B9B; /* Old browsers */
+background: -moz-linear-gradient(top, #9B9B9B 0%, #DAD4D4 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #9B9B9B 0%,#DAD4D4 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #9B9B9B 0%,#DAD4D4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9B9B9B', endColorstr='#DAD4D4',GradientType=0 ); /* IE6-9 */
 color:#171C27;
 }
 #contact-section hr {
@@ -634,6 +634,16 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 #footer p {
 	margin-top: 10px;
+}
+
+.loader {
+	width: 25px;
+	height: 25px;
+	background-image: url(../img/loader.gif);
+	float: left;	
+	margin-left: 48%;
+	margin-top: -14%;
+	display: none;
 }
 
 @media (max-width: 768px) {

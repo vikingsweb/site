@@ -30,7 +30,7 @@ class HelperController extends Controller {
 			], 'Vikings')->subject('Contato através do site.');
 		});
 
-		return "Mensagem enviada com sucesso";
+		return "Mensagem enviada com sucesso.";
 	}
 
 }
